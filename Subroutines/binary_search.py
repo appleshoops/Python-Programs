@@ -1,3 +1,5 @@
+import math
+
 def BinarySearch(_list, _searchItem):
     if len(_list) > 1:
         _leftList = _list[:len(_list)//2]
@@ -18,8 +20,8 @@ def binarySearch2(_list, _searchItem):
     low = 0
     high = (len(_list) - 1)
 
-    while low < high:
-        mid = (low + high) // 2
+    while low <= high:
+        mid = math.floor(low + high) / 2
         if _searchItem == _list[mid]:
             return "found"
         elif _searchItem < _list[mid]:

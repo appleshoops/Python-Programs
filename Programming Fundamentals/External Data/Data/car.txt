@@ -1,0 +1,52 @@
+Toyota,Camry,2018,Blue,25000
+Honda,Civic,2020,Red,22000
+Ford,Focus,2019,White,20000
+Chevrolet,Malibu,2017,Black,23000
+Nissan,Altima,2021,Silver,27000
+Hyundai,Elantra,2016,Gray,18000
+Kia,Optima,2019,Blue,24000
+Volkswagen,Passat,2015,Red,19000
+Subaru,Impreza,2020,White,26000
+Mazda,3,2018,Black,21000
+BMW,3 Series,2021,Blue,35000
+Mercedes-Benz,C-Class,2019,Gray,40000
+Audi,A4,2020,White,37000
+Lexus,ES,2017,Silver,32000
+Tesla,Model 3,2021,Red,45000
+Volvo,S60,2019,Black,34000
+Porsche,Panamera,2018,Blue,80000
+Jaguar,XE,2017,Gray,38000
+Infiniti,Q50,2020,White,36000
+Acura,TLX,2019,Red,33000
+Mitsubishi,Lancer,2016,Silver,20000
+Cadillac,ATS,2018,Black,41000
+Lincoln,MKZ,2020,Blue,39000
+Genesis,G70,2021,Gray,42000
+Alfa Romeo,Giulia,2019,Red,43000
+Chrysler,300,2017,White,31000
+Dodge,Charger,2018,Black,29000
+Buick,Regal,2016,Silver,28000
+Mini,Cooper,2020,Blue,27000
+Fiat,500,2019,Red,25000
+Jeep,Grand Cherokee,2021,White,37000
+Ram,1500,2018,Black,45000
+GMC,Sierra,2020,Gray,47000
+Chevrolet,Silverado,2019,Blue,46000
+Ford,F-150,2021,Red,48000
+Toyota,Tundra,2017,White,44000
+Nissan,Titan,2016,Silver,43000
+Honda,Ridgeline,2020,Black,41000
+Hyundai,Tucson,2019,Gray,29000
+Kia,Sportage,2021,Blue,31000
+Volkswagen,Tiguan,2018,Red,28000
+Subaru,Outback,2017,White,33000
+Mazda,CX-5,2020,Black,34000
+BMW,X3,2019,Blue,50000
+Mercedes-Benz,GLC,2021,Gray,52000
+Audi,Q5,2020,Red,53000
+Lexus,RX,2018,White,51000
+Tesla,Model X,2019,Black,75000
+Volvo,XC60,2017,Silver,49000
+Porsche,Cayenne,2020,Blue,85000
+Jaguar,F-Pace,2019,Red,65000
+Infiniti,QX50,2021,Gray,47000

@@ -1,0 +1,1 @@
+filename = "Python Programs/Programming Fundamentals/External Data/Data/names_list.txt"

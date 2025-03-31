@@ -1,8 +1,10 @@
 filename = 'Python Programs/Programming Fundamentals/External Data/Data/car.txt'
+def readAsSingleString():
+    with open(filename, "r") as file:  # use r for read mode, w for write mode, a for append mode!!! 😺 
+        file_content = file.read()
+        file.close()
+    return file_content
 
-with open(filename, "r") as file:  # use r for read mode, w for write mode, a for append mode!!! 😺 
-    file_content = file.read()
-    file.close()
 
 carList = []
 with open(filename, "r") as file:
@@ -24,3 +26,4 @@ with open(filename, "r") as file:
             "Colour": carInfo[3],
             "Price": int(carInfo[4])
         })
+    file.close()
